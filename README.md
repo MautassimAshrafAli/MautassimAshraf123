@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MutassimAshraf123?tab=repositories](https://github.com/MutassimAshraf123?tab=repositories)
 
-- 📫 How to reach me **mutassimashraf2@gmail.com**
+- 📫 How to reach me **mutassimashraf8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
