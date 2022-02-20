@@ -17,4 +17,4 @@
 
 
 ![MutassimAshraf123](https://github-readme-stats.vercel.app/api?username=MutassimAshraf123&theme=dark&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MutassimAshraf123&repo=note_code)](github.com/MutassimAshraf123/note_code)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MutassimAshraf123&repo=note_code)](https://github.com/MutassimAshraf123/note_code)
