@@ -23,5 +23,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MutassimAshraf123&theme=dark&langs_count=8)](https://github.com/MutassimAshraf123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MutassimAshraf123&theme=dark&langs_count=8)](https://github.com/MutassimAshraf123?tab=repositories)
 
