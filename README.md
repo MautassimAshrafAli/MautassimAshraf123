@@ -17,6 +17,6 @@
 
 
 ![MutassimAshraf123](https://github-readme-stats.vercel.app/api?username=MutassimAshraf123&theme=dark&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MutassimAshraf123&repo=note_code)](https://github.com/MutassimAshraf123/note_code)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MutassimAshraf123&langs_count=8)](https://github.com/MutassimAshraf123/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MutassimAshraf123&theme=dark&repo=note_code)](https://github.com/MutassimAshraf123/note_code)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MutassimAshraf123&theme=dark&langs_count=8)](https://github.com/MutassimAshraf123/github-readme-stats)
 
