@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mutassim ashraf</h1>
 <h3 align="center">.NET developer</h3>
 
-- 🔭 I’m currently working on **NEAR OS**
+- 🔭 I’m currently working on project **NEAR OS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MutassimAshraf123?tab=repositories](https://github.com/MutassimAshraf123?tab=repositories)
 
