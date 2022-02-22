@@ -27,3 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MutassimAshraf123&theme=dark&langs_count=8)](https://github.com/MutassimAshraf123?tab=repositories)
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mutassim-ashraf-60a540232" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/mutassim-ashraf-60a540232?trk=profile-badge">mutassim ashraf</a></div>
+              
+
