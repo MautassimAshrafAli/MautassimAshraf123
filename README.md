@@ -25,7 +25,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MutassimAshraf123&theme=dark&repo=Smart_Camera)](https://github.com/MutassimAshraf123/Smart_Camera)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MutassimAshraf123&theme=dark&repoBrowser)](https://github.com/MutassimAshraf123/Browser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MutassimAshraf123&theme=dark&repo=Browser)](https://github.com/MutassimAshraf123/Browser)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MutassimAshraf123&theme=dark&langs_count=8)](https://github.com/MutassimAshraf123?tab=repositories)
