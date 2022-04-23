@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mutassim ashraf</h1>
+<h1 align="center">Hi 👋, I'm mautassim ashraf</h1>
 <h3 align="center">.NET developer</h3>
 
 - 🔭 I’m currently working on project **NEAR OS**
