@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on project **NEAR OS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MutassimAshraf123?tab=repositories](https://github.com/MutassimAshraf123?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/MautassimAshrafAli?tab=repositories](https://github.com/MautassimAshrafAli?tab=repositories)
 
 - 📫 How to reach me **mautassimashraf0@gmail.com**
 
