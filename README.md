@@ -21,7 +21,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MautassimAshrafAli&theme=dark&repo=note_code)](https://github.comMautassimAshrafAli/note_code)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MautassimAshrafAli&theme=dark&repo=note_code)](https://github.com/MautassimAshrafAli/note_code)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MautassimAshrafAli&theme=dark&repo=Smart_Camera)](https://github.com/MautassimAshrafAli/Smart_Camera)
 
