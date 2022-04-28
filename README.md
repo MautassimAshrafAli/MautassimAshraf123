@@ -27,8 +27,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MautassimAshrafAli&theme=dark&repo=Browser)](https://github.com/MautassimAshrafAli/Browser)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MautassimAshrafAli&theme=dark&repo=
-control_your_pc-_by_your_phone-)](https://github.com/MautassimAshrafAli/control_your_pc-_by_your_phone-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MautassimAshrafAli&theme=dark&repo=control_your_pc-_by_your_phone-)](https://github.com/MautassimAshrafAli/control_your_pc-_by_your_phone-)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MautassimAshrafAli&theme=dark&langs_count=8)](https://github.com/MautassimAshrafAli?tab=repositories)
