@@ -31,3 +31,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MautassimAshrafAli&theme=dark&langs_count=8)](https://github.com/MautassimAshrafAli?tab=repositories)
+
+<a href="https://app.daily.dev/mautassim"><img src="https://api.daily.dev/devcards/e3dbd79b59ea4a038e05651c16c41c5b.png?r=i0u" width="400" alt="Mautassim Ashraf Ali's Dev Card"/></a>
