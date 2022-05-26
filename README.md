@@ -10,7 +10,7 @@
 
 - 📫 whatsapp [https://wa.me/+201124932549?lang=en](https://wa.me/+201124932549?lang=en)
 
-<a href="https://app.daily.dev/mautassim"><img src="https://api.daily.dev/devcards/e3dbd79b59ea4a038e05651c16c41c5b.png?r=i0u" width="400" alt="Mautassim Ashraf Ali's Dev Card"/></a>
+<a href="https://app.daily.dev/mautassim"><img src="https://github.com/MautassimAshrafAli/MautassimAshrafAli/blob/main/devcard.svg" width="400" alt="Mautassim Ashraf Ali's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
