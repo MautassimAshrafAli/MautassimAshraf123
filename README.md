@@ -11,21 +11,6 @@
 - 📫 whatsapp [https://wa.me/+201124932549?lang=en](https://wa.me/+201124932549?lang=en)
 
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/mautassimashraf rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-379283c2-585d-4c9f-9d1d-4d991310e7ab' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >mautassimashraf</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Software Engineer with 4+ years of experience in software development on Microsoft .Net Platform. Sound knowledge of Microsoft Products and Tools. Extensively worked on  CRUD systems. I have experience in python ethical hacking. -----Technical Expertise----- Languages: VB, C#, XML, Python. Web Technologies: ASP dot NET, MVC, Blazor, Django,  XML, Html, AJAX, JSON, CSS. Databases: SQL Server,PostgreSQL,SQLite</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-379283c2-585d-4c9f-9d1d-4d991310e7ab' src='https://widgets.fiverr.com/api/v1/seller/mautassimashraf?widget_id=379283c2-585d-4c9f-9d1d-4d991310e7ab' data-config='{"category_name":"\nProgramming \u0026 Tech\n\n"}' async='true' defer='true'></script>
-
-
 <a href="https://app.daily.dev/mautassim"><img src="https://github.com/MautassimAshrafAli/MautassimAshrafAli/blob/main/devcard.svg" width="400" alt="Mautassim Ashraf Ali's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
